@@ -9,6 +9,6 @@ export const Colors = {
     text: '#fff',
     background: '#000',
     icon: 'red',
-    button: '#000',
+    button: '#fff',
   },
 };
