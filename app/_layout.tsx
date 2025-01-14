@@ -12,6 +12,5 @@ export default function RootLayout() {
         </Stack>
       </SafeAreaProvider>
     </ThemeProvider>
-
-  )
+  );
 }
